@@ -44,3 +44,17 @@
 ### Link:
 
 https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
+
+# Atenção:
+
+ATENÇÃO
+
+É muito importante que você use as MESMAS VERSÕES das ferramentas para evitar problemas de incompatibilidade. Assim, vamos lá:
+
+VERSÃO DO .NET CORE:
+
+Crie seu projeto com o .NET Core 2.1 e não na versão 3.x, ok?
+
+Se não estiver aparecendo pra você a opção de selecionar a versão 2.1 na criação do projeto, favor instalar também o .NET Core 2.1. Segue link:
+
+https://dotnet.microsoft.com/download/dotnet-core/2.1
