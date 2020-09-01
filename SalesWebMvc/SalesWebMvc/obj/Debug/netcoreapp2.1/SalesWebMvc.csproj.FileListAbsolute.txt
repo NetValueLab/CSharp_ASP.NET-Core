@@ -40,3 +40,4 @@ D:\LUCAS\CURSOS\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Se
 D:\LUCAS\CURSOS\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 18\CSharp_ASP.NET-Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\LUCAS\CURSOS\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 18\CSharp_ASP.NET-Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\LUCAS\CURSOS\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 18\CSharp_ASP.NET-Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\LUCAS\CURSOS\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 18\CSharp_ASP.NET-Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
