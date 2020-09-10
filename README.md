@@ -1,4 +1,12 @@
 # Projeto: Sistema Web com ASP .NET Core MVC e Entity Framework
+### O que eu devo fazer para rodar o projeto local ?
+
+- Clone o repositório no seu Visual Studio;
+- Certifique-se que está usando a versão Core 2.1.1;
+- Na IDE (Visual Studio), vá na opção do menu: 
+    - Ferramentas -> Gerenciador de Pacotes do NuGet -> Console de Gerenciador de Pacotes;
+- Digite no terminal: Update-Database;
+- CTRL+F5.
 
 ### Esse projeto visa abordar os seguintes tópicos abaixo:
 

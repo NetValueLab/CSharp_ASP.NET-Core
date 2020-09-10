@@ -12733,19 +12733,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Genov\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LUCAS\\CURSOS\\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\\Seção 18\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Source\\Repos\\NetValueLab\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "D:\\LUCAS\\CURSOS\\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\\Seção 18\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-      "packagesPath": "C:\\Users\\Genov\\.nuget\\packages\\",
-      "outputPath": "D:\\LUCAS\\CURSOS\\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\\Seção 18\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "projectPath": "C:\\Users\\lucas\\Source\\Repos\\NetValueLab\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas\\Source\\Repos\\NetValueLab\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Genov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
