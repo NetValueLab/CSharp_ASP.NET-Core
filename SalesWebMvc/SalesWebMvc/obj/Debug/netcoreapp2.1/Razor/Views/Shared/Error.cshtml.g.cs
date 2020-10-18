@@ -13,8 +13,9 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+    using SalesWebMvc.Models.ViewModels;
 #line 1 "D:\LUCAS\CURSOS\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 18\SalesWebMvc\SalesWebMvc\Views\_ViewImports.cshtml"
-using SalesWebMvc;
+    using SalesWebMvc;
 
 #line default
 #line hidden
