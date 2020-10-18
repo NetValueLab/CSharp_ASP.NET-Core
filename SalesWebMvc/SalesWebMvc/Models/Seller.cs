@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace SalesWebMvc.Models
 {
@@ -13,5 +14,9 @@ namespace SalesWebMvc.Models
         public DateTime birthDate { get; set; }
 
         public double baseSalary { get; set; }
+
+        public Department Department { get; set; }
+
+        public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
     }
 }
