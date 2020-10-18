@@ -12,14 +12,13 @@ namespace SalesWebMvc.Models
 
         public string Email { get; set; }
 
-        public DateTime birthDate { get; set; }
+        public DateTime BirthDate { get; set; }
 
-        public double baseSalary { get; set; }
+        public double BaseSalary { get; set; }
 
         public Department Department { get; set; }
 
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
-        public DateTime Date { get; internal set; }
 
         public Seller()
         {
@@ -30,8 +29,8 @@ namespace SalesWebMvc.Models
             Id = id;
             Name = name;
             Email = email;
-            this.birthDate = birthDate;
-            this.baseSalary = baseSalary;
+            this.BirthDate = birthDate;
+            this.BaseSalary = baseSalary;
             Department = department;
         }
 
