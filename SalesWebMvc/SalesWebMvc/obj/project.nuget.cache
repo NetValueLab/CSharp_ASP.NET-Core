@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6L0Ds4/xevvHvOqAjRtQ+Wo+vXovumXH4AVbg3WeanXGfQ1p5df2I5N3Wx54QGywy1g8TfnLhh6lvYGcs/dGyA==",
+  "dgSpecHash": "mpF/egD0Z2ApSJegXFm3QfWR02rB+wb/w9NK7p0Z9B/AL5oi3B9g7RrcTIZNZUB0kAXKnJ5qKIBO3UxkldJqLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Source\\Repos\\NetValueLab\\CSharp_ASP.NET-Core\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "D:\\LUCAS\\CURSOS\\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\\Seção 18\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
