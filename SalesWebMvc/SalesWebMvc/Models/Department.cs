@@ -14,7 +14,7 @@ namespace SalesWebMvc.Models
         {
         }
 
-        public Department(int id, string name, ICollection<Seller> sallers)
+        public Department(int id, string name)
         {
             Id = id;
             Name = name;
