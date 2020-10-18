@@ -18,7 +18,6 @@ namespace SalesWebMvc.Models
         {
             Id = id;
             Name = name;
-            Sallers = sallers;
         }
     }
 }

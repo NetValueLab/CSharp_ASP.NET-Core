@@ -31,7 +31,6 @@ namespace SalesWebMvc.Models
             this.birthDate = birthDate;
             this.baseSalary = baseSalary;
             Department = department;
-            Sales = sales;
         }
     }
 }
